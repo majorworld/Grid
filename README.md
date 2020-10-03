@@ -1,6 +1,6 @@
 Grid最新版本号1.0
 ====
-#### 长按鼠标右键然后拖动选择快捷操作
+#### 长按鼠标右键移动后，打开功能菜单，松开右键后执行
 
 ## 打赏
 
@@ -10,6 +10,9 @@ Grid最新版本号1.0
 
 ## 下载
 
-[百度云盘](https://pan.baidu.com/s/1NXouguejZ4AW7TMAYU0lMw)
+[腾讯微云](https://share.weiyun.com/EoHvFhk7)
 
-[腾讯微云](https://share.weiyun.com/5KCqeSw)
+
+[功能预览](https://meta.appinn.net/uploads/default/original/2X/1/17aa8677e6497cb80893552098f829541155f280.png)
+
+![功能预览](https://meta.appinn.net/uploads/default/original/2X/1/17aa8677e6497cb80893552098f829541155f280.png)
