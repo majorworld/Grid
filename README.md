@@ -23,7 +23,10 @@ Grid最新版本号1.2
 
 [打赏二维码](https://meta.appinn.net/uploads/default/original/2X/2/2b969a6c353350a0258d8d2c0df2c4d8e6e015f7.png)
 
-## 4.排除
+## 4.演示
+[视频演示](https://www.bilibili.com/video/bv11i4y1E78H)
+
+## 5.排除
 #### 第一个设置里有排除当前进程的功能
 
 ![排除进程](https://meta.appinn.net/uploads/default/original/2X/7/773f93565680f18eaf0800884b71be76a9710013.png)
