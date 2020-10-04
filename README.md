@@ -25,8 +25,10 @@ Grid最新版本号1.2
 
 ## 4.排除
 #### 第一个设置里有排除当前进程的功能
+
 ![排除进程](https://meta.appinn.net/uploads/default/original/2X/7/773f93565680f18eaf0800884b71be76a9710013.png)
 
 #### 取消排除的话，需要打开配置文件，手动删除Exclude节点里的进程排除名称
+
 ![取消排除](https://meta.appinn.net/uploads/default/original/2X/6/64ef61a15f325ffbddd30609e8de70010f911718.png)
 
