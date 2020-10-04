@@ -4,7 +4,8 @@ Grid最新版本号1.2
 
 ## 1.亮点
 
-#### 选中文字后按住右键向上滑动复制，向下粘贴，非常流畅。
+#### 选中文字后按住右键，向上移动鼠标进行复制，向下粘贴，非常流畅
+#### 选中文字后按住右键，向上滚动鼠标滚轮进行复制，向下滚动粘贴，非常流畅
 #### 按住右键向左切换到上一个窗口，向右切换到下一个窗口
 #### 隐藏到托盘的功能也非常好用
 #### 退出在第一格设置里
@@ -13,9 +14,11 @@ Grid最新版本号1.2
 
 [腾讯微云](https://share.weiyun.com/EoHvFhk7)
 
-![功能预览](https://meta.appinn.net/uploads/default/original/2X/c/ce9ea249fad7c986c78171624453aea502012ed2.png)
+![截图预览](https://meta.appinn.net/uploads/default/original/2X/c/ce9ea249fad7c986c78171624453aea502012ed2.png)
 
-[功能预览](https://meta.appinn.net/uploads/default/original/2X/c/ce9ea249fad7c986c78171624453aea502012ed2.png)
+[截图预览](https://meta.appinn.net/uploads/default/original/2X/c/ce9ea249fad7c986c78171624453aea502012ed2.png)
+
+[视频演示](https://www.bilibili.com/video/bv11i4y1E78H)
 
 ## 3.打赏
 
@@ -23,10 +26,7 @@ Grid最新版本号1.2
 
 [打赏二维码](https://meta.appinn.net/uploads/default/original/2X/2/2b969a6c353350a0258d8d2c0df2c4d8e6e015f7.png)
 
-## 4.演示
-[视频演示](https://www.bilibili.com/video/bv11i4y1E78H)
-
-## 5.排除
+## 4.排除
 #### 第一个设置里有排除当前进程的功能
 
 ![排除进程](https://meta.appinn.net/uploads/default/original/2X/7/773f93565680f18eaf0800884b71be76a9710013.png)
