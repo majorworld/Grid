@@ -1,4 +1,4 @@
-Grid最新版本号1.1
+Grid最新版本号1.2
 ====
 ## 按住鼠标右键移动后，打开功能菜单，松开右键后执行
 
@@ -22,3 +22,11 @@ Grid最新版本号1.1
 ![打赏二维码](https://meta.appinn.net/uploads/default/original/2X/2/2b969a6c353350a0258d8d2c0df2c4d8e6e015f7.png)
 
 [打赏二维码](https://meta.appinn.net/uploads/default/original/2X/2/2b969a6c353350a0258d8d2c0df2c4d8e6e015f7.png)
+
+## 4.排除
+#### 第一个设置里有排除当前进程的功能
+![排除进程](https://meta.appinn.net/uploads/default/original/2X/7/773f93565680f18eaf0800884b71be76a9710013.png)
+
+#### 取消排除的话，需要打开配置文件，手动删除Exclude节点里的进程排除名称
+![取消排除](https://meta.appinn.net/uploads/default/original/2X/6/64ef61a15f325ffbddd30609e8de70010f911718.png)
+
