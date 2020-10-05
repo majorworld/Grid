@@ -14,9 +14,9 @@ Grid最新版本号1.2.1
 
 [腾讯微云](https://share.weiyun.com/EoHvFhk7)
 
-![截图预览](https://meta.appinn.net/uploads/default/original/2X/c/ce9ea249fad7c986c78171624453aea502012ed2.png)
+![截图预览](https://meta.appinn.net/uploads/default/original/2X/5/5104d4aae74e4556220f277069fcfec2d23434ad.png)
 
-[截图预览](https://meta.appinn.net/uploads/default/original/2X/c/ce9ea249fad7c986c78171624453aea502012ed2.png)
+[截图预览](https://meta.appinn.net/uploads/default/original/2X/5/5104d4aae74e4556220f277069fcfec2d23434ad.png)
 
 [视频演示](https://www.bilibili.com/video/bv11i4y1E78H)
 
