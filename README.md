@@ -4,6 +4,8 @@ Grid最新版本号2.1
 
 ## 1.亮点
 
+### 所有功能都是调用同目录下的脚本，模拟按键、打开网站、打开程序等。
+
 ![操作面板](https://meta.appinn.net/uploads/default/original/2X/7/75e79199aa8e3ca31a655d583433578d4141bae8.png)
 
 [操作面板](https://meta.appinn.net/uploads/default/original/2X/7/75e79199aa8e3ca31a655d583433578d4141bae8.png)
@@ -11,8 +13,6 @@ Grid最新版本号2.1
 ![绑定脚本](https://meta.appinn.net/uploads/default/original/2X/5/58fd0be68efcce29a76aece547c1b9ecdca285fe.png)
 
 [绑定脚本](https://meta.appinn.net/uploads/default/original/2X/5/58fd0be68efcce29a76aece547c1b9ecdca285fe.png)
-
-所有功能都是调用同目录下的脚本，模拟按键、打开网站、打开程序等。
 
 ## 2.下载
 
@@ -38,9 +38,9 @@ Grid最新版本号2.1
 
 ## 5.更多
 
-![截图2](https://meta.appinn.net/uploads/default/original/2X/7/7a2f1d0ca25636292c7a42f8a349d72a398781e1.png)
+![截图1](https://meta.appinn.net/uploads/default/original/2X/7/7a2f1d0ca25636292c7a42f8a349d72a398781e1.png)
 
-[截图2](https://meta.appinn.net/uploads/default/original/2X/7/7a2f1d0ca25636292c7a42f8a349d72a398781e1.png)
+[截图1](https://meta.appinn.net/uploads/default/original/2X/7/7a2f1d0ca25636292c7a42f8a349d72a398781e1.png)
 
 ![截图2](https://meta.appinn.net/uploads/default/original/2X/0/0a765d58f570970f6e56d01fc156d9fac4f80278.png)
 
