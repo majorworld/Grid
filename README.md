@@ -4,9 +4,13 @@ Grid最新版本号2.1
 
 ## 1.亮点
 
-![截图预览](https://meta.appinn.net/uploads/default/original/2X/7/75e79199aa8e3ca31a655d583433578d4141bae8.png)
+![操作面板](https://meta.appinn.net/uploads/default/original/2X/7/75e79199aa8e3ca31a655d583433578d4141bae8.png)
 
-[截图预览](https://meta.appinn.net/uploads/default/original/2X/7/75e79199aa8e3ca31a655d583433578d4141bae8.png)
+[操作面板](https://meta.appinn.net/uploads/default/original/2X/7/75e79199aa8e3ca31a655d583433578d4141bae8.png)
+
+![绑定脚本](https://meta.appinn.net/uploads/default/original/2X/5/58fd0be68efcce29a76aece547c1b9ecdca285fe.png)
+
+[绑定脚本](https://meta.appinn.net/uploads/default/original/2X/5/58fd0be68efcce29a76aece547c1b9ecdca285fe.png)
 
 所有功能都是调用同目录下的脚本，模拟按键、打开网站、打开程序等。
 
@@ -26,16 +30,17 @@ Grid最新版本号2.1
 ## 4.排除
 #### 第一个设置里有排除当前进程的功能
 
-![排除进程](https://meta.appinn.net/uploads/default/original/2X/7/773f93565680f18eaf0800884b71be76a9710013.png)
+![排除进程](https://meta.appinn.net/uploads/default/original/2X/5/58fb30d6f11104b6290efeed25f320322eacfdca.png)
 
 #### 取消排除的话，需要打开配置文件，手动删除Exclude节点里的进程排除名称
 
 ![取消排除](https://meta.appinn.net/uploads/default/original/2X/6/64ef61a15f325ffbddd30609e8de70010f911718.png)
 
 ## 5.更多
-![截图1](https://meta.appinn.net/uploads/default/original/2X/5/58fd0be68efcce29a76aece547c1b9ecdca285fe.png)
 
-[截图1](https://meta.appinn.net/uploads/default/original/2X/5/58fd0be68efcce29a76aece547c1b9ecdca285fe.png)
+![截图2](https://meta.appinn.net/uploads/default/original/2X/7/7a2f1d0ca25636292c7a42f8a349d72a398781e1.png)
+
+[截图2](https://meta.appinn.net/uploads/default/original/2X/7/7a2f1d0ca25636292c7a42f8a349d72a398781e1.png)
 
 ![截图2](https://meta.appinn.net/uploads/default/original/2X/0/0a765d58f570970f6e56d01fc156d9fac4f80278.png)
 
