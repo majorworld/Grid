@@ -1,8 +1,17 @@
 Grid最新版本号2.1.2
 ====
 ## 按住鼠标右键，移动鼠标或滚动滚轮，打开功能菜单，松开右键执行操作
+## 删除程序同目录的Grid文件夹会重新释放内置脚本
 
-## 1.亮点
+
+## 1.下载
+
+[腾讯微云](https://share.weiyun.com/EoHvFhk7)
+
+[视频演示](https://www.bilibili.com/video/bv11i4y1E78H)
+
+
+## 2.亮点
 
 ### 所有功能都是调用同目录下的脚本，模拟按键、打开网站、打开程序等。
 
@@ -13,12 +22,6 @@ Grid最新版本号2.1.2
 ![绑定脚本](https://meta.appinn.net/uploads/default/original/2X/5/58fd0be68efcce29a76aece547c1b9ecdca285fe.png)
 
 [绑定脚本](https://meta.appinn.net/uploads/default/original/2X/5/58fd0be68efcce29a76aece547c1b9ecdca285fe.png)
-
-## 2.下载
-
-[腾讯微云](https://share.weiyun.com/EoHvFhk7)
-
-[视频演示](https://www.bilibili.com/video/bv11i4y1E78H)
 
 
 ## 3.打赏
