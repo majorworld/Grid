@@ -30,7 +30,7 @@ Grid最新版本号2.1.3
 
 [打赏二维码](https://meta.appinn.net/uploads/default/original/2X/2/2b969a6c353350a0258d8d2c0df2c4d8e6e015f7.png)
 
-感谢*崇2020-10-09的打赏
+* 感谢*崇2020-10-09的打赏
 
 ## 4.排除
 #### 第一个设置里有排除当前进程的功能
