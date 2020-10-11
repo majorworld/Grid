@@ -26,9 +26,9 @@ Grid最新版本号2.1.3
 
 ## 3.打赏
 
-![打赏二维码](https://meta.appinn.net/uploads/default/original/2X/2/2b969a6c353350a0258d8d2c0df2c4d8e6e015f7.png)
+![打赏二维码](https://s1.ax1x.com/2020/10/11/0cXcRO.png)
 
-[打赏二维码](https://meta.appinn.net/uploads/default/original/2X/2/2b969a6c353350a0258d8d2c0df2c4d8e6e015f7.png)
+[打赏二维码](https://s1.ax1x.com/2020/10/11/0cXcRO.png)
 
 ### 感谢名单
 
