@@ -27,7 +27,7 @@ Grid最新版本号2.1.4
 
 ## 3.打赏
 
-![打赏二维码](https://s1.ax1x.com/2020/10/11/0cXcRO.png)
+![打赏二维码](https://ftp.bmp.ovh/imgs/2020/10/da0571167dd7e4d3.png)
 
 [打赏二维码](https://s1.ax1x.com/2020/10/11/0cXcRO.png)
 
