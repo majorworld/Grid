@@ -1,9 +1,9 @@
-Grid最新版本号2.1.4
+Grid最新版本号2.2.1
 ====
-## 按住鼠标右键，移动鼠标或滚动滚轮，打开功能菜单，松开右键执行操作
+## 按住鼠标右键，移动鼠标或滚动滚轮，打开功能菜单
 ## 删除程序同目录的Grid文件夹会重新释放内置脚本
-## 设置里添加了关闭显示器的功能
-## 【Grid交流群】1157159110，可以免费定制供Grid快速触发的脚本，不能太复杂太耗时的~
+## 从VBS脚本升级为AHK脚本了
+## 【Grid交流群】1157159110，可以免费定制供Grid快速触发的AHK脚本，不能太复杂太耗时的~
 
 ## 1.下载
 
@@ -16,13 +16,13 @@ Grid最新版本号2.1.4
 
 ### 所有功能都是调用同目录下的脚本，模拟按键、打开网站、打开程序等。
 
-![操作面板](https://meta.appinn.net/uploads/default/original/2X/7/75e79199aa8e3ca31a655d583433578d4141bae8.png)
+![操作面板](https://meta.appinn.net/uploads/default/original/2X/7/70f0f31c27eb5c781ffd00f8e7f8e3a4eb0cd3c6.png)
 
-[操作面板](https://meta.appinn.net/uploads/default/original/2X/7/75e79199aa8e3ca31a655d583433578d4141bae8.png)
+[操作面板](https://meta.appinn.net/uploads/default/original/2X/7/70f0f31c27eb5c781ffd00f8e7f8e3a4eb0cd3c6.png)
 
-![绑定脚本](https://meta.appinn.net/uploads/default/original/2X/5/58fd0be68efcce29a76aece547c1b9ecdca285fe.png)
+![绑定脚本](https://meta.appinn.net/uploads/default/original/2X/8/889b227fb2d235760b62e33deb28e1678a474a2e.png)
 
-[绑定脚本](https://meta.appinn.net/uploads/default/original/2X/5/58fd0be68efcce29a76aece547c1b9ecdca285fe.png)
+[绑定脚本](https://meta.appinn.net/uploads/default/original/2X/8/889b227fb2d235760b62e33deb28e1678a474a2e.png)
 
 
 ## 3.打赏
@@ -40,7 +40,8 @@ Grid最新版本号2.1.4
 ## 4.排除
 #### 第一个设置里有排除当前进程的功能
 
-![排除进程](https://meta.appinn.net/uploads/default/original/2X/5/58fb30d6f11104b6290efeed25f320322eacfdca.png)
+![排除进程](https://meta.appinn.net/uploads/default/original/2X/a/a37ed56b904227a20d8fe0465ede4692c7449bdd.png)
+[排除进程](https://meta.appinn.net/uploads/default/original/2X/a/a37ed56b904227a20d8fe0465ede4692c7449bdd.png)
 
 #### 取消排除的话，需要打开配置文件，手动删除Exclude节点里的进程排除名称
 
@@ -48,17 +49,17 @@ Grid最新版本号2.1.4
 
 ## 5.更多
 
-![截图1](https://meta.appinn.net/uploads/default/original/2X/7/7a2f1d0ca25636292c7a42f8a349d72a398781e1.png)
+![截图1](https://meta.appinn.net/uploads/default/original/2X/e/e3d8d8a527a50649c91b6f490531ce2895a52a79.png)
 
-[截图1](https://meta.appinn.net/uploads/default/original/2X/7/7a2f1d0ca25636292c7a42f8a349d72a398781e1.png)
+[截图1](https://meta.appinn.net/uploads/default/original/2X/e/e3d8d8a527a50649c91b6f490531ce2895a52a79.png)
 
-![截图2](https://meta.appinn.net/uploads/default/original/2X/0/0a765d58f570970f6e56d01fc156d9fac4f80278.png)
+![截图2](https://meta.appinn.net/uploads/default/original/2X/7/7f000bce3b4f7b48dff4bdbd9c7c0c1ef9d96773.png)
 
-[截图2](https://meta.appinn.net/uploads/default/original/2X/0/0a765d58f570970f6e56d01fc156d9fac4f80278.png)
+[截图2](https://meta.appinn.net/uploads/default/original/2X/7/7f000bce3b4f7b48dff4bdbd9c7c0c1ef9d96773.png)
 
-![截图3](https://meta.appinn.net/uploads/default/original/2X/0/06ba86325c5c961710dec00b8f3a5ad5be351a44.png)
+![截图3](https://meta.appinn.net/uploads/default/original/2X/a/afa1fba364f13f7e9c33574814a0319b13d12cff.png)
 
-[截图3](https://meta.appinn.net/uploads/default/original/2X/0/06ba86325c5c961710dec00b8f3a5ad5be351a44.png)
+[截图3](https://meta.appinn.net/uploads/default/original/2X/a/afa1fba364f13f7e9c33574814a0319b13d12cff.png)
 
 
 
