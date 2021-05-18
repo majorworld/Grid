@@ -1,8 +1,31 @@
 Grid最新版本号3.1.2
 ====
-# 想要更极致触发体验的，可以试试[Wheel](https://github.com/majorworld/Wheel)，有24个自定义AHK脚本，屏幕边缘触发
 
-## 【Grid交流群】1157159110，可以免费定制供Grid快速触发的AHK脚本，不能太复杂太耗时的~
+# 页面优化
+![1|513x500](https://meta.appinn.net/uploads/default/original/3X/6/c/6cdece648c5da44e9cee7b87650d5e833f0813b9.png)
+
+Mouse+
+
+https://github.com/majorworld/MousePlus
+
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+## 【Grid交流群】1157159110
 ## 按住鼠标右键，移动鼠标或滚动滚轮，打开功能菜单
 ## 删除程序同目录的Grid文件夹会重新释放内置脚本
 ## 从VBS脚本升级为AHK脚本了
