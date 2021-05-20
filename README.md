@@ -1,10 +1,9 @@
 Grid最新版本号3.1.2
 ====
 
-# 页面优化
+# 页面优化，新款Mouse+，欢迎体验
 ![1|513x500](https://meta.appinn.net/uploads/default/original/3X/6/c/6cdece648c5da44e9cee7b87650d5e833f0813b9.png)
 
-Mouse+
 
 https://github.com/majorworld/MousePlus
 
